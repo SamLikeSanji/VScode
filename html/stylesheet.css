@@ -3,6 +3,11 @@ h4 {
 
 }
 
+body {
+
+    background-color: rgb(148, 206, 240);
+}
+
 p {
     color: red;
 }
